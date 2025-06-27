@@ -7,7 +7,7 @@ public class Main {
         final int MONTHS_IN_YEAR = 12;
         final int PERCENT = 100;
         Scanner scanner = new Scanner(System.in);
-        System.out.println("p:");
+        System.out.println("principle:");
         double principle = scanner.nextDouble();
         System.out.println("Annual interest Rate:");
         double interestRate = scanner.nextDouble();
